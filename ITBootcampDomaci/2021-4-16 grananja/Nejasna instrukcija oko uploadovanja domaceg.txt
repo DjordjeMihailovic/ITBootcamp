@@ -1,0 +1,5 @@
+U petak nisam bio prisutan kada se
+verujem objasnavalo kako da se extractuje
+ceo paket sa klasama, tako da sam probao da extractujem paket
+ali u slucaju da nesto nije u redu stoje u fajlu i klase
+uploadovane kao iz prethodne instrukcije

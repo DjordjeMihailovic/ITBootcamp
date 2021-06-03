@@ -1,0 +1,83 @@
+    1  dfsaf
+    2  pwd
+    3  ls
+    4  ls - l
+    5  ls -l
+    6  ping 192.168.1.1 -t
+    7  pwd
+    8  ls
+    9  cd ..
+   10  ls -l
+   11  cd Desktop
+   12  cd ..
+   13  cd Desktop
+   14  cd ../..
+   15  pwd
+   16  ls -l
+   17  cd Boban
+   18  pwd
+   19  cd Desktop
+   20  mkdir test123
+   21  cd test123
+   22  touch test.txt
+   23  nano.test123
+   24  nano .test123
+   25  nano .test.txt
+   26  nano text.txt
+   27  touch test.txt
+   28  touch test.txt
+   29  nano test.txt
+   30  cat test.txt
+   31  ls --
+   32  ls --help
+   33  rm text.txt
+   34  rm test.txt
+   35  history
+   36  history > istorija.txt
+   37  tail istorija.txt
+   38  tail -n 3 istorija.txt
+   39  head -n 5 istorija.txt
+   40  mkdir novi123
+   41  cd novi123
+   42  history > falt.txt
+   43  touch fajl.txt
+   44  history > fajl.txt
+   45  grep -e cd fajl.txt
+   46  grep -e cd falt.txt
+   47  greb -e cd falt.txt | tail -n 15
+   48  grep -e cd falt.txt | tail -n 15
+   49  ps
+   50  find falt.txt
+   51  cd novi123
+   52  git init
+   53  git config --global user.name "DjordjeMihailovic"
+   54  git config --global user.email "djordje.mihailovic@yahoo.com"
+   55  git status
+   56  git add falt.txt
+   57  git commit -m "dodavanje falja falt.txt"
+   58  git clone https://github.com/DjordjeMihailovic/ITBootcamp.git
+   59  git push https://github.com/DjordjeMihailovic/ITBootcamp.git
+   60   git push --set-upstream https://github.com/DjordjeMihailovic/ITBootcamp.git master
+   61  $  git push --set-upstream https://github.com/DjordjeMihailovic/ITBootcamp.git master
+   62   git push --set-upstream https://github.com/DjordjeMihailovic/ITBootcamp.git master
+   63  git pull 
+   64  $ git pullhttps://github.com/DjordjeMihailovic/ITBootcamp.git
+   65  git pull https://github.com/DjordjeMihailovic/ITBootcamp.git
+   66  git checkout -b novaGrana
+   67  touch noviFajl.txt
+   68  git add noviFajl.txt
+   69  git commit -m "nova grana novi fajl"
+   70  git push https://github.com/DjordjeMihailovic/ITBootcamp.git
+   71  git push https://github.com/DjordjeMihailovic/ITBootcamp.git
+   72  git push --set-upstream https://github.com/DjordjeMihailovic/ITBootcamp.git novaGrana
+   73  git clone https://github.com/DjordjeMihailovic/bootcampVezbanje.git
+   74  touch historyGit.txt
+   75  git history
+   76  git --help
+   77  git log
+   78  touch bootcampVezbanje
+   79  git log
+   80  history > historyGit.txt
+   81  cd bootcampVezba
+   82  cd bootcampVezbanje
+   83  history > historyGit.txt

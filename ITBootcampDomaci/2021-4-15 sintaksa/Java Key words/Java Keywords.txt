@@ -1,0 +1,25 @@
+toUpperCase() - konvertuje string u velika slova
+else - koristi se uz if uslov; desava se ako se if ne ispuni
+if - standardan if kondicional
+int - definise promenljivu kao integer
+long - definise varijablu u koju moze stati mnogo veci raspon brojeva od obicnog integera
+boolean
+break
+byte
+case
+char
+class
+continue
+do
+for
+public
+return
+short
+static
+try
+void
+while
+isEmpty()
+abs(x)
+min(x, y)
+max(x, y)

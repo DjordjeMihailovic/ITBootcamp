@@ -1,0 +1,1 @@
+Zadatak1: Greska je sto posle if kondicionala nije zatvorena viticasta zagrada

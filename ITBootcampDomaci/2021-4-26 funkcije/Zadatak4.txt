@@ -1,0 +1,1 @@
+Mozemo. Zato sto void samo printuje u konzoli, a string funkcija vraca string.
